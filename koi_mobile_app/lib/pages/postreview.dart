@@ -76,7 +76,7 @@ class _PostReviewState extends State<PostReview> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Text(
-                      'Add A Review',
+                      'Add a Review',
                       style: TextStyle(
                         fontSize: 24.0,
                         fontWeight: FontWeight.bold,
